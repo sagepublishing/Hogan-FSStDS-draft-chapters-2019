@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: "This title is in _config.yml"
+description: ""
+github:
+  is_project_page: true
